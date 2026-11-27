@@ -14,7 +14,7 @@ A centralized index of my MCA coursework, lecture notes, lab manuals, and study 
 
 
 
-
+\## Cloud Computing AWS practical's - https://drive.google.com/drive/folders/1VNnEDvae3yOJpvXLReAlvYQZxF1aB8vZ?usp=drive\_link
 
 
 
